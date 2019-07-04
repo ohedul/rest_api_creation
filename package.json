@@ -1,0 +1,20 @@
+{
+  "name": "rest_api_creation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.6.2",
+    "mongoose-timestamp": "^0.6.0",
+    "restify": "^8.3.3",
+    "restify-errors": "^8.0.0",
+    "restify-jwt-community": "^1.0.13"
+  }
+}
